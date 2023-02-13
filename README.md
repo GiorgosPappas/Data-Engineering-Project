@@ -1,6 +1,6 @@
 # Data-Engineering-Project
 This project is a data engineering pipeline built using Python, Apache Airflow, Docker, and Metabase. The pipeline is designed to extract, transform, and load (ETL) data from various sources into a central data repository.
-The goal is to extract data from twitter and stock market. Make use of tweet sentiment analysis to compare stock price flunctuation.
+The goal is to extract data from twitter and stock market. Make use of tweet sentiment analysis applying an NLP model to compare stock price flunctuation.
 
 ## Requirements
 * Docker
